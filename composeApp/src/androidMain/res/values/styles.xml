@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme.Weaverly.Starting" parent="LaunchTheme.Weaverly.Starting.Light" />
+
+    <style name="LaunchTheme.Weaverly.Starting.Light" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FFC7A7</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_weaverly_clair_padding</item>
+        <item name="android:actionBarStyle">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

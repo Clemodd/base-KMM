@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaunchTheme.Weaverly.Starting" parent="LaunchTheme.Weaverly.Starting.Dark" />
+
+    <style name="LaunchTheme.Weaverly.Starting.Dark" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#32264c</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_weaverly_sombre_padding</item>
+        <item name="android:actionBarStyle">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
